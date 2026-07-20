@@ -29,8 +29,8 @@ A lightweight implementation of the Linux `tail -f` command in C++. The program 
 
 ```
 .
-├── Main.cpp
-├── Sample.txt
+├── main.cpp
+├── sample.txt
 └── README.md
 ```
 
