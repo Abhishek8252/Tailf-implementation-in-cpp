@@ -1,0 +1,12 @@
+Line 01: This line should be ignored (12th from end).
+Line 02: This line should also be ignored (11th from end).
+Line 03: The window starts here (10th from end).
+Line 04: The system is now monitoring this line.
+Line 05: C++ seekg and tellg are byte-oriented.
+Line 06: We are scanning backward for newlines.
+Line 07: This is roughly the middle of the window.
+Line 08: Testing the sliding update logic now.
+Line 09: Almost at the end of the initial set.
+Line 10: This is the third to last line.
+Line 11: This is the second to last line.
+Line 12: This is the current last line of the file.
