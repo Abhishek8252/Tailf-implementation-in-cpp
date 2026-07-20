@@ -37,7 +37,7 @@ A lightweight implementation of the Linux `tail -f` command in C++. The program 
 ## Build
 
 ```bash
-g++ Main.cpp -o tailf -std=c++17
+g++ main.cpp -o tailf -std=c++17
 ```
 
 ## Run
